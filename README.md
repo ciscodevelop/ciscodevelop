@@ -1,36 +1,39 @@
-# Ciao, sono Francesco Papa 👋
+# Francesco Papa
 
-**Founder of [FlowAxion](https://flowaxion.com)** — costruisco SaaS AI-assistite, sistemi di automazione workflow e prodotti digitali scalabili.
+Founder di [FlowAxion](https://flowaxion.com) e product architect focalizzato su piattaforme SaaS, automazione workflow,
+AI-assisted product systems e prodotti digitali scalabili.
 
-## 🚀 Cosa faccio
+## Cosa costruisco
 
-- **Business Operating Platform multi-tenant** — workflow + billing + governance + dashboard, tutto in un singolo control plane
-- **AI Visual Agent** — page builder a comando vocale/prompt che modifica blueprint in tempo reale
-- **Architetture event-driven** — Postgres source-of-truth, MongoDB document store, BullMQ/Redis queue, Stripe ledger append-only
+- Piattaforme web multi-tenant con dashboard, moduli operativi e control plane.
+- Workflow automation e sistemi event-driven con attenzione a idempotenza, audit e affidabilità.
+- Esperienze frontend moderne con React, Next.js, TypeScript, Tailwind e design system.
+- Prodotti AI-assisted con guardrail, validazione e integrazione reale nei flussi applicativi.
 
-## 🛠️ Stack
+## Stack principale
 
-| Area | Tech |
-|---|---|
-| **Frontend** | Next.js 16 · React · TypeScript strict · Tailwind |
-| **Backend** | Node.js · Mongoose · pg · Zod · NextAuth |
-| **AI** | OpenAI · Anthropic · Gemini · DeepSeek (multi-provider chain) |
-| **Data** | PostgreSQL (Supabase) · MongoDB Atlas · Redis (BullMQ) |
-| **Payments** | Stripe (webhook idempotenti, ledger pattern) |
-| **DevOps** | Vercel · GitHub Actions · Playwright |
+| Area     | Tecnologie                                               |
+| -------- | -------------------------------------------------------- |
+| Frontend | Next.js, React, TypeScript, Tailwind                     |
+| Backend  | Node.js, API routes, service layer, Zod                  |
+| Data     | MongoDB, PostgreSQL, Redis/BullMQ                        |
+| AI       | Vercel AI SDK, provider LLM, prompt-to-product workflows |
+| Quality  | Typecheck, lint, build gate, Playwright                  |
+| Delivery | Vercel, GitHub, documentazione operativa                 |
 
-## 📂 Progetti attivi
+## Progetti pubblici selezionati
 
-- 🏢 [**StudioWebApp**](https://github.com/ciscodevelop/StudioWebApp) — full-stack TypeScript app per gestione studio professionale
-- 📋 [**portale-studio**](https://github.com/ciscodevelop/portale-studio) — portale amministrativo multi-tenant (Next.js + MongoDB)
-- 💇 [**la-boutique-della-bellezza**](https://github.com/ciscodevelop/la-boutique-della-bellezza) — sito vetrina parrucchiere con catalogo cosmetici
-- 👤 [**Portfolio-Personale**](https://github.com/ciscodevelop/Portfolio-Personale) — il mio portfolio
+- [Portfolio-Personale](https://github.com/ciscodevelop/Portfolio-Personale) — portfolio React/TypeScript e base storica
+  della presenza personale.
+- [StudioWebApp](https://github.com/ciscodevelop/StudioWebApp) — applicazione full-stack TypeScript per gestione studio
+  professionale.
+- [portale-studio](https://github.com/ciscodevelop/portale-studio) — portale Next.js/TypeScript con MongoDB e logiche
+  multi-tenant.
+- [la-boutique-della-bellezza](https://github.com/ciscodevelop/la-boutique-della-bellezza) — sito vetrina Next.js per
+  business locale beauty.
 
-## 📫 Contatti
+## Contatti
 
-- 🌐 [flowaxion.com](https://flowaxion.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/francesco-papa)
-
----
-
-> *"Build it like there's real money on the line — because there is."*
+- Sito: [flowaxion.com](https://flowaxion.com)
+- LinkedIn: [Francesco Papa](https://www.linkedin.com/in/francesco-papa)
+- GitHub: [@ciscodevelop](https://github.com/ciscodevelop)
